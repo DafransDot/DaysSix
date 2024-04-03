@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DaysSix</string>
+    <string name="nama">Nama</string>
+    <string name="Umur">Umur</string>
+    <string name="Negara">Negara</string>
+    <string name="kutip">:</string>
+    <string name="kirim">Kirim</string>
+</resources>
